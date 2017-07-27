@@ -10,7 +10,7 @@
 * [Alita Kendrick](https://github.com/AlitaKendrick)
 
 ## Objective
-Content Club was developed by our team to help people create a topic of interest and have people actively discuss the topic.
+Content Club was developed to help people actively discuss a topic of their choosing.
 
 ## Technology Used
 * [MongoDB](https://www.mongodb.com/)
